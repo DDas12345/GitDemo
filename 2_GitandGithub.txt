@@ -1,0 +1,35 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+new v4
+
+
+>> It's distributed (on cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+https://git-scm.com/install/mac
+
+GitHub
+BitBucket
+GitLabs
+GitPod
+
+>> For 1st time we need to config github in our system
+git config --global user.name "DDas12345"
+git config --global user.email "das.debanshika@gmail.com"
+git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/DDas12345/GitDemo.git
+>> git pull origin main
+>> git status
+
+git add .
+git status
+git commit -m "commit message"
+git push
